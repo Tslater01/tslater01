@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Betafish](https://github.com/Strryke/betafish)
 
-- 🌱 I’m currently learning **DS and Algos 😢**
+- 🌱 I’m currently learning **Data Structures and Algorithms **
 
 - 👨‍💻 Learn more about me on my personal site [https://tyerslater.io](https://tylerslater.io)
 
-- 💬 Ask me about **React, Express, JS/TS**
+- 💬 Ask me about **Machine Learning, Python, Chess**
 
 - 📫 Drop me a message at **tylerc.slater@calbaptist.edu**
 
