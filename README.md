@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Study Spot](https://github.com/Tslater01/studyspot)
 
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 🌱 I’m currently learning Data Structures and Algorithms. 
 
 - 👨‍💻 Learn more about me on my personal site [https://tyerslater.io](https://tylerslater.io)
 
