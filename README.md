@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Machine Learning, Python, Chess**
 
-- 📫 Drop me a message at **tylerc.slater@calbaptist.edu**
+- 📫 Drop me a message at **tylerc.slater@calbaptist.ed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
