@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
-- 👨‍💻 Learn more about me on my personal site [https://tyerslater.io](https://tylerslater.io)
-
 - 💬 Ask me about **Machine Learning, Python, Chess**
 
 - 📫 Drop me a message at **tylerc.slater@calbaptist.edu**
@@ -17,4 +15,3 @@
 <a href="https://linkedin.com/in/tyler-slater-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyler-slater-" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tslater01&show_icons=true&locale=en" alt="tslater01" /></p>
