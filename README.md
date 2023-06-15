@@ -2,7 +2,7 @@
 <h3 align="center">CS student @ California Baptist University. I am a driven, aspiring Machine Learning Engineer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tslater01&label=Profile%20views&color=0e75b6&style=flat" alt="Tslater01" /> </p>
 
-- 🔭 I’m currently working on [Study Spot](https://github.com/Tslater01/DailyLeetCodeQuestions)
+- 🔭 I’m currently working on [Daily Leet Code Questions](https://github.com/Tslater01/DailyLeetCodeQuestions)
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
