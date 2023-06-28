@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Daily Leet Code Questions](https://github.com/Tslater01/DailyLeetCodeQuestions)
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms!
 
 - 💬 Ask me about **Machine Learning, Python, Chess**
 
