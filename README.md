@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Daily Leet Code Questions](https://github.com/Tslater01/DailyLeetCodeQuestions)
 
-- 🌱 I’m currently learning AWS, GCP, and Azure!
+- 🌱 I’m currently learning AWS!
 
-- 💬 Ask me about **Machine Learning, Python, Chess**
+- 💬 Ask me about **Cloud Computing, Python, Chess**
 
 - 📫 Drop me a message at **tylerc.slater@calbaptist.edu**
 
