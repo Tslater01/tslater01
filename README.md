@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Daily Leet Code Questions](https://github.com/Tslater01/DailyLeetCodeQuestions)
 
-- 🌱 I’m currently learning AWS!
+- 🌱 I’m currently learning ArcGIS!
 
 - 💬 Ask me about **Cloud Computing, Python, Chess**
 
