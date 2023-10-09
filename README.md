@@ -2,13 +2,16 @@
 <h3 align="center">Senior CS student @ California Baptist University. I am a driven, motivated Software Engineer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tslater01&label=Profile%20views&color=0e75b6&style=flat" alt="Tslater01" /> </p>
 
-- 🔭 I’m currently working on [SolvingPokemonPlatinum](https://github.com/Tslater01/SolvingPokemonPlatinum)!
+🔧 **Current Project**: Working on [SolvingPokemonPlatinum](https://github.com/Tslater01/SolvingPokemonPlatinum). 
 
-- 🌱 I’m currently learning ArcGIS!
+📚 **Learning**: Diving deep into ArcGIS to expand my GIS knowledge.
 
-- 💬 Ask me about **Cloud Computing, Python, Chess**
+👩‍💻 **Skills & Interests**:
+- Cloud Computing
+- C++/Python Programming
+- Chess 
 
-- 📫 Drop me a message at **tylerc.slater@calbaptist.edu**
+📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tylerc.slater@calbaptist.edu](mailto:tylerc.slater@calbaptist.edu).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
