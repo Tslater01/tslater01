@@ -13,7 +13,7 @@
 
 📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tylerc.slater@calbaptist.edu](mailto:tylerc.slater@calbaptist.edu).
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tyler-slater-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyler-slater-" height="30" width="40" /></a>
 </p>
