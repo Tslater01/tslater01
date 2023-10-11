@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">Senior CS student @ California Baptist University. I am a driven, motivated Software Engineer!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tslater01&label=Profile%20views&color=0e75b6&style=flat" alt="Tslater01" /> </p>
+
 
 🔧 **Current Project**: Working on [SolvingPokemonPlatinum](https://github.com/Tslater01/SolvingPokemonPlatinum). 
 
