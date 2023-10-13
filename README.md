@@ -8,7 +8,7 @@
 
 👩‍💻 **Skills & Interests**:
 - Cloud Computing
-- C++/Python Programming
+- C++/ Python Programming
 - Chess 
 
 📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tylerc.slater@calbaptist.edu](mailto:tylerc.slater@calbaptist.edu).
