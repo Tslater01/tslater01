@@ -4,7 +4,7 @@
 
 🔧 **Current Project**: Working on [SolvingPokemonPlatinum](https://github.com/Tslater01/SolvingPokemonPlatinum). 
 
-📚 **Learning**: Diving deep into ArcGIS to expand my GIS knowledge
+📚 **Learning**: Diving deep into ArcGIS to expand my GIS knowledge.
 
 👩‍💻 **Skills & Interests**:
 - Cloud Computing
