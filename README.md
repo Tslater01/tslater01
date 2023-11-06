@@ -4,11 +4,12 @@
 
 🔧 **Current Project**: Working on [SolvingPokemonPlatinum](https://github.com/Tslater01/SolvingPokemonPlatinum). 
 
-📚 **Learning**: Diving deep into ArcGIS to expand my GIS knowledge.
+📚 **Learning**: Diving deep into AI/ML algorithmic development.
 
 👩‍💻 **Skills & Interests**:
+- AI/ML
 - Cloud Computing
-- C++/ Python Programming
+- Python / C++ Programming
 - Chess 
 
 📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tylerc.slater@calbaptist.edu](mailto:tylerc.slater@calbaptist.edu).
