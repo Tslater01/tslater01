@@ -7,9 +7,9 @@
 📚 **Learning**: Diving deep into AI/ML algorithmic development.
 
 👩‍💻 **Skills & Interests**:
-- AI/ML
-- Cloud Computing
 - Python / C++ Programming
+- Cloud Computing
+- AI/ML
 - Chess 
 
 📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tylerc.slater@calbaptist.edu](mailto:tylerc.slater@calbaptist.edu).
