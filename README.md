@@ -2,7 +2,7 @@
 <h3 align="center">Senior CS student @ California Baptist University. I am a driven, motivated Software Engineer!</h3>
 
 
-🔧 **Current Project**: Working on [SolvingPokemonPlatinum](https://github.com/Tslater01/SolvingPokemonPlatinum). 
+🔧 **Current Project**: Working on [chessAI]([https://github.com/Tslater01/SolvingPokemonPlatinum](https://github.com/Tslater01/chessAI)). 
 
 📚 **Learning**: Diving deep into AI/ML algorithmic development.
 
