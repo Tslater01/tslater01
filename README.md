@@ -8,7 +8,6 @@
 
 👩‍💻 **Skills & Interests**:
 - Python / C++ Programming
-- ArcGIS / GIS
 - Cloud Computing
 - AI/ML
 - Chess 
