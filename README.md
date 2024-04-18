@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">Senior CS student @ California Baptist University. I am a driven, motivated Software Engineer!</h3
+<h3 align="center">Senior CS student @ California Baptist University. I am a driven, motivated Software Engineer!</h3>
 
 
 🔧 **Current Project**: Working on my [**Chess AI Bot**]([https://github.com/Tslater01/SolvingPokemonPlatinum](https://github.com/Tslater01/chessAI)). 
