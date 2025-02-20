@@ -12,7 +12,7 @@
 - AI/ML
 - Chess 
 
-📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tylerc.slater@calbaptist.edu](mailto:tylerc.slater@calbaptist.edu).
+📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tslater8@gatech.edu](mailto:tslater8@gatech.edu).
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
