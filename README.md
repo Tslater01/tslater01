@@ -9,8 +9,9 @@
 👩‍💻 **Skills & Interests**:
 - Python / C++ Programming
 - Cloud Computing
+- Flutter/Dart
 - AI/ML
-- Chess 
+- React   
 
 📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tslater8@gatech.edu](mailto:tslater8@gatech.edu).
 
