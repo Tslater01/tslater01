@@ -2,7 +2,7 @@
 <h3 align="center">I am a driven, motivated Software Engineer currently pursing my Masters at Georgia Institute of Technology!</h3>
 
 
-🔧 **Current Project**: Working on my [**Chess AI Bot**]([https://github.com/Tslater01/SolvingPokemonPlatinum](https://github.com/Tslater01/chessAI)). 
+🔧 **Current Project**: Working on my [**3DMeet.ai**]
 
 📚 **Learning**: Diving deep into AI/ML algorithmic development.
 
