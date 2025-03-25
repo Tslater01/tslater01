@@ -7,9 +7,8 @@
 📚 **Learning**: Diving deep into AI/ML algorithmic development.
 
 👩‍💻 **Skills & Interests**:
-- Python / C++ Programming
+- JavaScript / Three.js
 - Cloud Computing
-- Flutter/Dart
 - AI/ML
 - React   
 
