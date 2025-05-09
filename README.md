@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">I am a driven, motivated Software Engineer currently pursing my Masters at Georgia Institute of Technology!</h3>
-
 
 🔧 **Current Project**: Working on **3DMeet.ai**
 
