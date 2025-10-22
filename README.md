@@ -5,7 +5,7 @@
 📚 **Learning**: Diving deep into AI/ML algorithmic development.
 
 👩‍💻 **Skills & Interests**:
-- JavaScript / Three.js
+- Computer Vision
 - Cloud Computing
 - AI/ML
 - React   
