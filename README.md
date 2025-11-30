@@ -2,7 +2,7 @@
 
 🔧 **Current Project**: Working on **SISF**
 
-📚 **Learning**: Diving deep into AI/ML algorithmic development.
+📚 **Learning**: AI/ML algorithmic development.
 
 👩‍💻 **Skills & Interests**:
 - Computer Vision
