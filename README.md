@@ -4,11 +4,11 @@
 
 📚 **Learning**: AI/ML algorithmic development.
 
-👩‍💻 **Skills & Interests**:
+👩‍💻 **Interests**:
 - Computer Vision
 - Cloud Computing
-- AI/ML
-- React   
+- ML & Data Infra
+- Backend Development   
 
 📩 **Let's Connect**: Feel free to drop me a message regarding collaborations, opportunities, or just a tech chat at [tslater8@gatech.edu](mailto:tslater8@gatech.edu).
 
